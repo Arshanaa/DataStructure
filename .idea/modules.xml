@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AgeCalculator/AgeCalculator.iml" filepath="$PROJECT_DIR$/AgeCalculator/AgeCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GIT.iml" filepath="$PROJECT_DIR$/GIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericExercise/GenericExercise.iml" filepath="$PROJECT_DIR$/GenericExercise/GenericExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericQueue/GenericQueue.iml" filepath="$PROJECT_DIR$/GenericQueue/GenericQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericStack/GenericStack.iml" filepath="$PROJECT_DIR$/GenericStack/GenericStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Room/Room.iml" filepath="$PROJECT_DIR$/Room/Room.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+    </modules>
+  </component>
+</project>
